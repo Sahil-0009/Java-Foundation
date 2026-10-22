@@ -72,10 +72,3 @@ int unboxed = boxed;  // unboxing
 ```
 
 **6. `char` and Unicode.** `char` holds a UTF-16 code unit; `'A'` is `65`. Strings are immutable reference types.
-
-If your video used different emphasis (e.g., memory layout, `var` inference, or a specific slide deck), share the transcript or re-upload the file and I'll align the summary exactly to it.
-=======
-        VS Code provides the workspace and terminal, while JShell is useful for trying short Java expressions; 
-        a full Java program goes in a .java file and can be compiled with javac and run with java.
->>>>>>> 304c257f861e9d03f76a1ce0173d5028e57cb2d1
-
